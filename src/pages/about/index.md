@@ -12,7 +12,7 @@ title: 'About Us '
 
 ### 
 
-### We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://fenlandtakeawaymenus.co.uk
+### We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at 
 
 <h1><ins> Information Collection And Use </ins> </h1>
 
